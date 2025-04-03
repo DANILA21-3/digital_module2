@@ -1,24 +1,24 @@
 {
-  "Автомобили": [
+  "cars": [
     {
-      "Марка": "Toyota",
-      "Модель": "Camry",
-      "Год выпуска": 2020,
-      "Электрокар": false,
-      "Особенности": ["Кондиционер", "Вариатор", "Комфорт"]
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2020,
+      "is_electric": false,
+      "features": ["Кондиционер", "Вариатор", "Комфорт"]
     },
     {
       "make": "Tesla",
       "model": "Model S",
       "year": 2021,
-      "isElectric": true,
+      "is_electric": true,
       "features": ["Автопилот", "Экологичность", "Тихая езда"]
     },
     {
       "make": "Audi",
       "model": "RS6",
       "year": 2016,
-      "isElectric": false,
+      "is_electric": false,
       "features": ["Быстрая езда", "Спортивный автомобиль", "Хорошая управляемость"]
     }
   ]
