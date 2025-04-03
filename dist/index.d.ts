@@ -1,0 +1,1 @@
+declare function loadData(): void;
