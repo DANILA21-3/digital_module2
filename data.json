@@ -1,25 +1,33 @@
-{
-  "cars": [
-    {
+[
+  {
+    "id": 1,
+    "data": {
       "make": "Toyota",
       "model": "Camry",
       "year": 2020,
       "is_electric": false,
       "features": ["Кондиционер", "Вариатор", "Комфорт"]
-    },
-    {
+    }
+  },
+  {
+    "id": 2,
+    "data": {
       "make": "Tesla",
       "model": "Model S",
       "year": 2021,
       "is_electric": true,
       "features": ["Автопилот", "Экологичность", "Тихая езда"]
-    },
-    {
+    }
+  },
+  {
+    "id": 3,
+    "data": {
       "make": "Audi",
       "model": "RS6",
       "year": 2016,
       "is_electric": false,
       "features": ["Быстрая езда", "Спортивный автомобиль", "Хорошая управляемость"]
     }
-  ]
-}
+  }
+]
+
